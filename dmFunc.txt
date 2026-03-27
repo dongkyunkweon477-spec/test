@@ -1,0 +1,4 @@
+dm's work space
+function getName(){
+let name ="seodongmin";
+}
